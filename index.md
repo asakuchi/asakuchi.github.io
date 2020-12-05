@@ -3,4 +3,4 @@
 # My GitHub Pages.
 
 * [Twitter](https://twitter.com/paleApricot)
-* [Blog](/bog)
+* [Blog](https://asakuchi.github.io/blog/)

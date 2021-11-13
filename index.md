@@ -9,5 +9,7 @@
 
 ### Minesweeper
 
+React
+
 [apps](https://minesweeper-azure.vercel.app/)
 [GitHub](https://github.com/asakuchi/minesweeper)

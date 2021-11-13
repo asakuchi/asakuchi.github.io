@@ -4,3 +4,10 @@
 
 * [Twitter](https://twitter.com/paleApricot)
 * [Blog](https://asakuchi.github.io/blog/)
+
+## works
+
+## Minesweeper
+
+[apps](https://minesweeper-azure.vercel.app/)
+[GitHub](https://github.com/asakuchi/minesweeper)
